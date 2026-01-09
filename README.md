@@ -105,11 +105,3 @@ The Power BI dashboard consists of multiple pages:
 
 ---
 
-## 👩‍💻 Author
-
-**Priya Vishwakarma**
-Aspiring Data Analyst | Power BI | SQL | Data Analytics
-
----
-
-⭐ If you find this project insightful, feel free to explore and build upon it.
