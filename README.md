@@ -62,21 +62,27 @@ The Power BI dashboard consists of multiple pages:
 
 * High-level summary of customers, deposits, and loans
 * Key KPIs for quick insights
+* <img src="powerbi/page1_home.png" alt="Page 1 - Home" width="700"/>
 
 ### 2️⃣ Loan Analysis
 
 * Loan distribution across customers
 * Loan trends and segmentation
+* <img src="powerbi/page2_loan_analysis.png" alt="Page 2 - Loan Analysis" width="700"/>
 
 ### 3️⃣ Deposit Analysis
 
 * Analysis of savings, checking, and foreign currency accounts
 * Deposit behavior by customer segments
+* <img src="powerbi/page3_deposit_analysis.png" alt="Page 3 - Deposit Analysis" width="700"/>
+
 
 ### 4️⃣ Customer Summary
 
 * Customer segmentation based on income and balances
 * Identification of high-value customers
+* <img src="powerbi/page4_summary.png" alt="Page 4 - Summary" width="700"/>
+
 
 ---
 
